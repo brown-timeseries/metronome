@@ -1008,6 +1008,11 @@
   border:0px;
 }
 
+.team {
+  text-align: center;
+  border:0px;
+}
+
 .markdown-header {
   display:none;
   color:white;
