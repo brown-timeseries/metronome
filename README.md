@@ -70,7 +70,7 @@ CIDR. 2017.
 <table>
 <tbody>
   <tr>
-    <td><img src="images/mejbah_alam.jpg" width="150" height="150"></td>
+    <td><img src="images/mejbah_alam.jpeg" width="150" height="150"></td>
     <td><img src="images/justin_gottschlich.jpg" width="150" height="150"></td>
   </tr>
   <tr>
@@ -87,7 +87,7 @@ CIDR. 2017.
 <table>
 <tbody>
   <tr>
-    <td><img src="images/tj_kee.jpg" width="150" height="150"></td>
+    <td><img src="images/tj_lee.png" width="150" height="150"></td>
     <td><img src="images/eric_metcalf.jpg" width="150" height="150"></td>
     <td><img src="images/john_meehan.jpg" width="150" height="150"></td>
   </tr>
