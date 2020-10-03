@@ -44,31 +44,26 @@ CIDR. 2017.
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style> -->
-<table style="border=0px;">
+<table>
 <tbody>
   <tr>
-    <td style="border=0px;"><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
-    <td style="border=0px;"><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
-    <td style="border=0px;"><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
-    <td style="border=0px;"><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
+    <td><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
+    <td><img src="images/franco_solleza.jpg" width="150" height="150"></td>
+    <td><img src="images/stan_zdonik.jpg" width="150" height="150"></td>
+    <td><img src="images/nesime_tatbul.jpg" width="150" height="150"></td>
   </tr>
   <tr>
-    <td style="border=0px;">Philipp Eichmann</td>
-    <td style="border=0px;">Philipp Eichmann</td>
-    <td style="border=0px;">Philipp Eichmann</td>
-    <td style="border=0px;">Philipp Eichmann</td>
+    <td>Philipp Eichmann</td>
+    <td>Franco Solleza</td>
+    <td>Stan Zdonik</td>
+    <td>Nesime Tatbul</td>
   </tr>
   <tr>
-    <td style="border=0px;">Brown University</td>
-    <td style="border=0px;">Brown University</td>
-    <td style="border=0px;">Brown University</td>
-    <td style="border=0px;">Brown University</td>
+    <td>Brown University</td>
+    <td>Brown University</td>
+    <td>Brown University</td>
+    <td>Intel Labs and MIT</td>
   </tr>
 </tbody>
 </table>
 
-| <!-- -->       | <!-- -->     | <!-- -->     |
-| :--: | :--: | :--: |
-| <img src="images/philipp_eichmann.jpg" width="150" height="150"> | More Stuff   | And Again    |
-| Philipp Eichmann  | Put Pipes In | Like this \| |
-| Brown University | Put Pipes In | Like this \| |
