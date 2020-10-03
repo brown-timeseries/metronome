@@ -47,7 +47,7 @@ CIDR. 2017.
 <table border-width=0px>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
+    <td border-width=0px><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
