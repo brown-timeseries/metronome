@@ -1,3 +1,9 @@
+<style type="text/css">
+header {
+  display: none;
+}
+</style>
+
 ![Metronome Logo](images/logo2.svg)
 <p style="text-align: center; font-size:30px">Predictive Time Series Analytics at Scale</p>
   
