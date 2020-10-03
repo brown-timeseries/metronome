@@ -1,5 +1,4 @@
-name: null
-title: null
+title: metronome
 plugins:
   - jekyll-relative-links
 relative_links:
