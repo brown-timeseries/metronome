@@ -1009,3 +1009,7 @@ table, tr, td {
   font-size:30px;
 }
 
+header {
+	display:none
+}
+
