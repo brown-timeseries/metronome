@@ -35,7 +35,8 @@ CIDR. 2017.
 
 ## Team
 
-||||
-|--|--|--|
-|  Cell Contents | More Stuff   | And Again    |
-| You Can Also   | Put Pipes In | Like this \| |
+| <!-- -->       | <!-- -->     | <!-- -->     |
+| :--: | :--: | :--: |
+| ![Philipp Eichmann](images/philipp_eichmann.jpg) | More Stuff   | And Again    |
+| Philipp Eichmann  | Put Pipes In | Like this \| |
+| Brown University | Put Pipes In | Like this \| |
