@@ -35,6 +35,7 @@ CIDR. 2017.
 
 ## Team
 
+<!--
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;
@@ -42,8 +43,8 @@ CIDR. 2017.
 .tg th{border-color:black;border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+</style>>
+<table border-width=0px>
 <tbody>
   <tr>
     <td class="tg-0lax"><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
