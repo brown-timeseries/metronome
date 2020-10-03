@@ -47,62 +47,62 @@ CIDR. 2017.
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style> -->
-<table class="teams">
+<table>
 <tbody>
-  <tr class="teams">
-    <td class="teams"><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
-    <td class="teams"><img src="images/franco_solleza.jpg" width="150" height="150"></td>
-    <td class="teams"><img src="images/stan_zdonik.jpg" width="150" height="150"></td>
-    <td class="teams"><img src="images/nesime_tatbul.jpg" width="150" height="150"></td>
+  <tr>
+    <td><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
+    <td><img src="images/franco_solleza.jpg" width="150" height="150"></td>
+    <td><img src="images/stan_zdonik.jpg" width="150" height="150"></td>
+    <td><img src="images/nesime_tatbul.jpg" width="150" height="150"></td>
   </tr>
-  <tr class="teams">
-    <td class="teams">Philipp Eichmann</td>
-    <td class="teams">Franco Solleza</td>
-    <td class="teams">Stan Zdonik</td>
-    <td class="teams">Nesime Tatbul</td>
+  <tr>
+    <td>Philipp Eichmann</td>
+    <td>Franco Solleza</td>
+    <td>Stan Zdonik</td>
+    <td>Nesime Tatbul</td>
   </tr>
-  <tr class="teams">
-    <td class="teams">Brown University</td>
-    <td class="teams">Brown University</td>
-    <td class="teams">Brown University</td>
-    <td class="teams">Intel Labs and MIT</td>
+  <tr>
+    <td>Brown University</td>
+    <td>Brown University</td>
+    <td>Brown University</td>
+    <td>Intel Labs and MIT</td>
   </tr>
 </tbody>
 </table>
 
-<table class="teams">
+<table>
 <tbody>
-  <tr class="teams">
-    <td class="teams"><img src="images/mejbah_alam.jpeg" width="150" height="150"></td>
-    <td class="teams"><img src="images/justin_gottschlich.jpg" width="150" height="150"></td>
+  <tr>
+    <td><img src="images/mejbah_alam.jpeg" width="150" height="150"></td>
+    <td><img src="images/justin_gottschlich.jpg" width="150" height="150"></td>
   </tr>
-  <tr class="teams">
-    <td class="teams">Mejbah Alam</td>
-    <td class="teams">Justin Gottschlich</td>
+  <tr>
+    <td>Mejbah Alam</td>
+    <td>Justin Gottschlich</td>
   </tr>
-  <tr class="teams">
-    <td class="teams">Intel Labs</td>
-    <td class="teams">Intel Labs</td>
+  <tr>
+    <td>Intel Labs</td>
+    <td>Intel Labs</td>
   </tr>
 </tbody>
 </table>
 
-<table class="teams">
+<table>
 <tbody>
-  <tr class="teams">
-    <td class="teams"><img src="images/tj_lee.png" width="150" height="150"></td>
-    <td class="teams"><img src="images/eric_metcalf.jpg" width="150" height="150"></td>
-    <td class="teams"><img src="images/john_meehan.jpg" width="150" height="150"></td>
+  <tr>
+    <td><img src="images/tj_lee.png" width="150" height="150"></td>
+    <td><img src="images/eric_metcalf.jpg" width="150" height="150"></td>
+    <td><img src="images/john_meehan.jpg" width="150" height="150"></td>
   </tr>
-  <tr class="teams">
-    <td class="teams">Tae Jun Lee</td>
-    <td class="teams">Eric Metcalf</td>
-    <td class="teams">John Meehan</td>
+  <tr>
+    <td>Tae Jun Lee</td>
+    <td>Eric Metcalf</td>
+    <td>John Meehan</td>
   </tr>
-  <tr class="teams">
-    <td class="teams">Microsoft</td>
-    <td class="teams">Awake Security</td>
-    <td class="teams">Tranquil Data</td>
+  <tr>
+    <td>Microsoft</td>
+    <td>Awake Security</td>
+    <td>Tranquil Data</td>
   </tr>
 </tbody>
 </table>
