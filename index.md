@@ -46,62 +46,62 @@ CIDR. 2017.
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style> -->
-<table style="border:0px;">
+<table style="border:0px; text-align:center;">
 <tbody>
-  <tr style="border:0px;">
-    <td style="border:0px;"><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
-    <td style="border:0px;"><img src="images/franco_solleza.jpg" width="150" height="150"></td>
-    <td style="border:0px;"><img src="images/stan_zdonik.jpg" width="150" height="150"></td>
-    <td style="border:0px;"><img src="images/nesime_tatbul.jpg" width="150" height="150"></td>
+  <tr style="border:0px; text-align:center;">
+    <td style="border:0px; text-align:center;"><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
+    <td style="border:0px; text-align:center;"><img src="images/franco_solleza.jpg" width="150" height="150"></td>
+    <td style="border:0px; text-align:center;"><img src="images/stan_zdonik.jpg" width="150" height="150"></td>
+    <td style="border:0px; text-align:center;"><img src="images/nesime_tatbul.jpg" width="150" height="150"></td>
   </tr>
-  <tr style="border:0px;">
-    <td style="border:0px;">Philipp Eichmann</td>
-    <td style="border:0px;">Franco Solleza</td>
-    <td style="border:0px;">Stan Zdonik</td>
-    <td style="border:0px;">Nesime Tatbul</td>
+  <tr style="border:0px; text-align:center;">
+    <td style="border:0px; text-align:center;">Philipp Eichmann</td>
+    <td style="border:0px; text-align:center;">Franco Solleza</td>
+    <td style="border:0px; text-align:center;">Stan Zdonik</td>
+    <td style="border:0px; text-align:center;">Nesime Tatbul</td>
   </tr>
-  <tr style="border:0px;">
-    <td style="border:0px;">Brown University</td>
-    <td style="border:0px;">Brown University</td>
-    <td style="border:0px;">Brown University</td>
-    <td style="border:0px;">Intel Labs and MIT</td>
+  <tr style="border:0px; text-align:center;">
+    <td style="border:0px; text-align:center;">Brown University</td>
+    <td style="border:0px; text-align:center;">Brown University</td>
+    <td style="border:0px; text-align:center;">Brown University</td>
+    <td style="border:0px; text-align:center;">Intel Labs and MIT</td>
   </tr>
 </tbody>
 </table>
 
-<table>
+<table style="border:0px; text-align:center;">
 <tbody>
-  <tr>
-    <td><img src="images/mejbah_alam.jpeg" width="150" height="150"></td>
-    <td><img src="images/justin_gottschlich.jpg" width="150" height="150"></td>
+  <tr style="border:0px; text-align:center;">
+    <td style="border:0px; text-align:center;"><img src="images/mejbah_alam.jpeg" width="150" height="150"></td>
+    <td style="border:0px; text-align:center;"><img src="images/justin_gottschlich.jpg" width="150" height="150"></td>
   </tr>
-  <tr>
-    <td>Mejbah Alam</td>
-    <td>Justin Gottschlich</td>
+  <tr style="border:0px; text-align:center;">
+    <td style="border:0px; text-align:center;">Mejbah Alam</td>
+    <td style="border:0px; text-align:center;">Justin Gottschlich</td>
   </tr>
-  <tr>
-    <td>Intel Labs</td>
-    <td>Intel Labs</td>
+  <tr style="border:0px; text-align:center;">
+    <td style="border:0px; text-align:center;">Intel Labs</td>
+    <td style="border:0px; text-align:center;">Intel Labs</td>
   </tr>
 </tbody>
 </table>
 
-<table>
+<table style="border:0px; text-align:center;">
 <tbody>
-  <tr>
-    <td><img src="images/tj_lee.png" width="150" height="150"></td>
-    <td><img src="images/eric_metcalf.jpg" width="150" height="150"></td>
-    <td><img src="images/john_meehan.jpg" width="150" height="150"></td>
+  <tr style="border:0px; text-align:center;">
+    <td style="border:0px; text-align:center;"><img src="images/tj_lee.png" width="150" height="150"></td>
+    <td style="border:0px; text-align:center;"><img src="images/eric_metcalf.jpg" width="150" height="150"></td>
+    <td style="border:0px; text-align:center;"><img src="images/john_meehan.jpg" width="150" height="150"></td>
   </tr>
-  <tr>
-    <td>Tae Jun Lee</td>
-    <td>Eric Metcalf</td>
-    <td>John Meehan</td>
+  <tr style="border:0px; text-align:center;">
+    <td style="border:0px; text-align:center;">Tae Jun Lee</td>
+    <td style="border:0px; text-align:center;">Eric Metcalf</td>
+    <td style="border:0px; text-align:center;">John Meehan</td>
   </tr>
-  <tr>
-    <td>Microsoft</td>
-    <td>Awake Security</td>
-    <td>Tranquil Data</td>
+  <tr style="border:0px; text-align:center;">
+    <td style="border:0px; text-align:center;">Microsoft</td>
+    <td style="border:0px; text-align:center;">Awake Security</td>
+    <td style="border:0px; text-align:center;">Tranquil Data</td>
   </tr>
 </tbody>
 </table>
