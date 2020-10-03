@@ -4,6 +4,10 @@
       text-align: center;
       font-size:30px;
     }
+    table, tr, td {
+    text-align: center;
+    border:0px;
+    }
   </style>
 </head>
 <title>
@@ -60,7 +64,7 @@ CIDR. 2017.
 <table style="border:0px; text-align:center;">
 <tbody>
   <tr style="border:0px; text-align:center;">
-    <td style="border:0px; text-align:center;"><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
+    <td><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
     <td style="border:0px; text-align:center;"><img src="images/franco_solleza.jpg" width="150" height="150"></td>
     <td style="border:0px; text-align:center;"><img src="images/stan_zdonik.jpg" width="150" height="150"></td>
     <td style="border:0px; text-align:center;"><img src="images/nesime_tatbul.jpg" width="150" height="150"></td>
