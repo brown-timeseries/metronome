@@ -1,5 +1,7 @@
 ![Metronome Logo](images/logo2.svg)
-
+<p align="center">Predictive Time Series Analytics at Scale<p>
+  
+  
 ## About
 
 From autonomous driving to industrial IoT, the age of billions of intelligent devices generating time-varying data is here. There is a growing need to ingest and analyze time series data accurately and efficiently to look for interesting patterns at scale. Our key goal in Metronome is to build novel data management, machine learning, and interactive visualization techniques for supporting the development and deployment of predictive time series analytics applications, such as anomaly detection.
