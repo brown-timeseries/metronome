@@ -7,29 +7,30 @@ From autonomous driving to industrial IoT, the age of billions of intelligent de
 ## Publications
 
 **["Visual Exploration of Time Series Anomalies with
-Metro-Viz"](resources/metroviz_sigmod_2019_poster.pdf)**
-Philipp Eichmann, Franco Solleza, Junjay Tan, Nesime Tatbul, Stan Zdonik
-SigMOD Demo. 2019. Best Demo Award
+Metro-Viz"](resources/metroviz_sigmod_2019_poster.pdf)**  
+Philipp Eichmann, Franco Solleza, Junjay Tan, Nesime Tatbul, Stan Zdonik  
+SigMOD Demo. 2019. Best Demo Award  
 
-**"Metro-Viz: Black-Box Analysis of Time Series Anomaly Detectors"**
-Philipp Eichmann, Franco Solleza, Junjay Tan, Nesime Tatbul, Stan Zdonik
+**["Metro-Viz: Black-Box Analysis of Time Series Anomaly Detectors"](resources/metroviz_chi.pdf)**  
+Philipp Eichmann, Franco Solleza, Junjay Tan, Nesime Tatbul, Stan Zdonik  
 SigCHI. 2019.
 
-**"Precision and Recall for Time Series"**
-Nesime Tatbul, Tae Jun Lee, Stan Zdonik, Mejbah Alam, Justin Gottschlich
-NeurIPS Spotlight Paper. 2018.
+**["Precision and Recall for Time Series"](resources/precision_recall_neurips.pdf)**  
+Nesime Tatbul, Tae Jun Lee, Stan Zdonik, Mejbah Alam, Justin Gottschlich  
+NeurIPS Spotlight Paper. 2018.  
 **Code: [TSAD-Evaluator](https://github.com/IntelLabs/TSAD-Evaluator)**
 
-**"Greenhouse: A Zero-Positive Machine Learning System for Time-Series Anomaly Detection"**
-Tae-Jun Lee, Justin Gottschlich, Nesime Tatbul, Eric Metcalf, Stan Zdonik
+**["Greenhouse: A Zero-Positive Machine Learning System for Time-Series Anomaly
+Detection"](resources/greenhouse_sysml.pdf)**  
+Tae-Jun Lee, Justin Gottschlich, Nesime Tatbul, Eric Metcalf, Stan Zdonik  
 SysML. 2018.
 
-**"Precision and Recall for Range-Based Anomaly Detection"**
-Tae-Jun Lee, Justin Gottschlich, Nesime Tatbul, Eric Metcalf, Stan Zdonik
+**["Precision and Recall for Range-Based Anomaly Detection"](resources/precision_recall_sysml.pdf)**  
+Tae-Jun Lee, Justin Gottschlich, Nesime Tatbul, Eric Metcalf, Stan Zdonik  
 SysML. 2018.
 
-**"Data Ingestion for the Connected World"**
-John Meehan, Cansu Aslantas, Jiang Du, Nesime Tatbul, Stan Zdonik 
+**["Data Ingestion for the Connected World"](resources/greenhouse_sysml.pdf)**  
+John Meehan, Cansu Aslantas, Jiang Du, Nesime Tatbul, Stan Zdonik  
 CIDR. 2017.
 
 ## Team
