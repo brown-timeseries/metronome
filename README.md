@@ -37,6 +37,6 @@ CIDR. 2017.
 
 | <!-- -->       | <!-- -->     | <!-- -->     |
 | :--: | :--: | :--: |
-| ![Philipp Eichmann](images/philipp_eichmann.jpg) | More Stuff   | And Again    |
+| <img src="images/philipp_eichmann.jpg" width="150" height="150"> | More Stuff   | And Again    |
 | Philipp Eichmann  | Put Pipes In | Like this \| |
 | Brown University | Put Pipes In | Like this \| |
