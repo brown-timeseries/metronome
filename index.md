@@ -7,7 +7,6 @@
     table, tr, td {
       text-align: center;
       border:0px;
-      font-size:30px;
     }
   </style>
 </head>
