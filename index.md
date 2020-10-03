@@ -7,6 +7,7 @@
     table, tr, td {
     text-align: center;
     border:0px;
+    font-size:30px;
     }
   </style>
 </head>
@@ -70,7 +71,7 @@ CIDR. 2017.
     <td style="border:0px; text-align:center;"><img src="images/nesime_tatbul.jpg" width="150" height="150"></td>
   </tr>
   <tr style="border:0px; text-align:center;">
-    <td style="border:0px; text-align:center;font-size:	10px;">Philipp Eichmann</td>
+    <td style="border:0px; text-align:center;font-size:	30px;">Philipp Eichmann</td>
     <td style="border:0px; text-align:center;">Franco Solleza</td>
     <td style="border:0px; text-align:center;">Stan Zdonik</td>
     <td style="border:0px; text-align:center;">Nesime Tatbul</td>
