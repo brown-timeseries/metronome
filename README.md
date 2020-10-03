@@ -38,31 +38,31 @@ CIDR. 2017.
 <!--
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border:0px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border:0px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style> -->
-<table style="border-width=0px;">
+<table style="border=0px;">
 <tbody>
   <tr>
-    <td style="border-width=0px;"><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
-    <td style="border-width=0px;"><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
-    <td style="border-width=0px;"><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
-    <td style="border-width=0px;"><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
+    <td style="border=0px;"><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
+    <td style="border=0px;"><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
+    <td style="border=0px;"><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
+    <td style="border=0px;"><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
   </tr>
   <tr>
-    <td style="border-width=0px;">Philipp Eichmann</td>
-    <td style="border-width=0px;">Philipp Eichmann</td>
-    <td style="border-width=0px;">Philipp Eichmann</td>
-    <td style="border-width=0px;">Philipp Eichmann</td>
+    <td style="border=0px;">Philipp Eichmann</td>
+    <td style="border=0px;">Philipp Eichmann</td>
+    <td style="border=0px;">Philipp Eichmann</td>
+    <td style="border=0px;">Philipp Eichmann</td>
   </tr>
   <tr>
-    <td style="border-width=0px;">Brown University</td>
-    <td style="border-width=0px;">Brown University</td>
-    <td style="border-width=0px;">Brown University</td>
-    <td style="border-width=0px;">Brown University</td>
+    <td style="border=0px;">Brown University</td>
+    <td style="border=0px;">Brown University</td>
+    <td style="border=0px;">Brown University</td>
+    <td style="border=0px;">Brown University</td>
   </tr>
 </tbody>
 </table>
