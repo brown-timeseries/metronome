@@ -1,5 +1,5 @@
 ![Metronome Logo](images/logo2.svg)
-<p align="center" style="font-size:30px">Predictive Time Series Analytics at Scale</p>
+<p id="subtitle">Predictive Time Series Analytics at Scale</p>
   
   
 ## About
