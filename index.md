@@ -105,9 +105,3 @@ CIDR. 2017.
   </tr>
 </tbody>
 </table>
-
-<style type="text/css">
-header {
-  display: none;
-}
-</style>
