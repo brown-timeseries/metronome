@@ -1003,12 +1003,12 @@
   font-size:30px;
 }
 
-table, tr, td {
+.markdown-body table, tr, td {
   text-align: center;
   border:0px;
 }
 
-header {
+.markdown-header {
   display:none;
   color:white;
 }
