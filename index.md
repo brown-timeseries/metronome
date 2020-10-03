@@ -1,17 +1,3 @@
-<head>
-  <style type="text/css">
-    #subtitle {
-      text-align: center;
-      font-size:30px;
-    }
-    table, tr, td {
-      text-align: center;
-      border:0px;
-    }
-  </style>
-</head>
-<title>
-</title>
 
 ![Metronome Logo](images/logo2.svg)
 <p id="subtitle">Predictive Time Series Analytics at Scale</p>
