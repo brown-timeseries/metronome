@@ -44,25 +44,25 @@ CIDR. 2017.
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style> -->
-<table border-width=0px>
+<table style="border-width=0px;">
 <tbody>
   <tr>
-    <td border-width=0px><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
-    <td border-width=0px><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
-    <td border-width=0px><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
-    <td border-width=0px><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
+    <td style="border-width=0px;"><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
+    <td style="border-width=0px;"><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
+    <td style="border-width=0px;"><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
+    <td style="border-width=0px;"><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
   </tr>
   <tr>
-    <td border-width=0px>Philipp Eichmann</td>
-    <td border-width=0px>Philipp Eichmann</td>
-    <td border-width=0px>Philipp Eichmann</td>
-    <td border-width=0px>Philipp Eichmann</td>
+    <td style="border-width=0px;">Philipp Eichmann</td>
+    <td style="border-width=0px;">Philipp Eichmann</td>
+    <td style="border-width=0px;">Philipp Eichmann</td>
+    <td style="border-width=0px;">Philipp Eichmann</td>
   </tr>
   <tr>
-    <td border-width=0px>Brown University</td>
-    <td border-width=0px>Brown University</td>
-    <td border-width=0px>Brown University</td>
-    <td border-width=0px>Brown University</td>
+    <td style="border-width=0px;">Brown University</td>
+    <td style="border-width=0px;">Brown University</td>
+    <td style="border-width=0px;">Brown University</td>
+    <td style="border-width=0px;">Brown University</td>
   </tr>
 </tbody>
 </table>
