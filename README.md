@@ -48,21 +48,21 @@ CIDR. 2017.
 <tbody>
   <tr>
     <td border-width=0px><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td border-width=0px><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
+    <td border-width=0px><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
+    <td border-width=0px><img src="images/philipp_eichmann.jpg" width="150" height="150"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Philipp Eichmann</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td border-width=0px>Philipp Eichmann</td>
+    <td border-width=0px>Philipp Eichmann</td>
+    <td border-width=0px>Philipp Eichmann</td>
+    <td border-width=0px>Philipp Eichmann</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Brown University</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td border-width=0px>Brown University</td>
+    <td border-width=0px>Brown University</td>
+    <td border-width=0px>Brown University</td>
+    <td border-width=0px>Brown University</td>
   </tr>
 </tbody>
 </table>
