@@ -116,7 +116,7 @@ CIDR. 2017.
   <tr>
     <td><img src="images/brown.png" height="150"></td>
     <td><img src="images/intel.jpg" height="150"></td>
-    <td><img src="images/nsf.jpg" height="150"></td>
+    <td><img src="images/nsf.png" height="150"></td>
   </tr>
   <tr>
     <td></td>
