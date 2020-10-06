@@ -108,3 +108,21 @@ CIDR. 2017.
   </tr>
 </tbody>
 </table>
+
+## Acknowledgements
+
+<table>
+<tbody>
+  <tr>
+    <td><img src="images/brown.png" height="150"></td>
+    <td><img src="images/intel.jpg" height="150"></td>
+    <td><img src="images/nsf.jpg" height="150"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>grant IIS-1526639</td>
+  </tr>
+</tbody>
+</table>
+
